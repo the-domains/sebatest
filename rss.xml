@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[sebatest]]></title>
         <description><![CDATA[sebatest]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sebatest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 14:54:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Apr 2016 14:59:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sebatest/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f407644d-f3b9-461a-9931-862bdc7b7316.jpg">]]></description>
-            <link>undefinedzaptv-spain-is-live/index.html</link>
+            <link>https://thegrid.ai/sebatest/zaptv-spain-is-live/index.html</link>
             <guid isPermaLink="false">ff7f5b8d-3f89-4088-9044-138f458f436e</guid>
-            <pubDate>Thu, 28 Apr 2016 14:53:57 GMT</pubDate>
+            <pubDate>Thu, 28 Apr 2016 14:59:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
